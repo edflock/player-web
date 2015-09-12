@@ -1,0 +1,19 @@
+{
+  "name": "player-web",
+  "version": "0.0.0",
+  "homepage": "https://github.com/edflock/player-web",
+  "authors": [
+    "Utkarsh Shukla <utk.shukla@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "eventEmitter": "~4.2.7"
+    },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
